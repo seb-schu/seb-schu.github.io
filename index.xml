@@ -7,7 +7,7 @@
     <description>Sebastian Schuster</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sebastian Schuster</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://seb-schu.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://seb-schu.github.io/media/icon_hu0a76167eff82d0da22f75ef5c757e666_9443_512x512_fill_lanczos_center_3.png</url>
       <title>Sebastian Schuster</title>
       <link>https://seb-schu.github.io/</link>
     </image>
@@ -124,6 +124,59 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example book</title>
+      <link>https://seb-schu.github.io/publication/books/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://seb-schu.github.io/publication/books/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Start of this blog</title>
+      <link>https://seb-schu.github.io/blog/start/start/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://seb-schu.github.io/blog/start/start/</guid>
+      <description>
+
+
+&lt;p&gt;This is the first sentence of my personal blog.&lt;/p&gt;
+&lt;p&gt;You might wonder, why I decided to use English on my whole website and rejected to build it multi-lingual even though German is my mothertongue. The reason is twofolded. First, I guess it would by inappropriately time consuming to build a multi-lingual website even if there are good translation tools around these days that would save me a lot of time. Second,&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://seb-schu.github.io/imprint/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://seb-schu.github.io/imprint/</guid>
+      <description>
+
+
+&lt;div id=&#34;angaben-gemäß-5-tmg&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;
+&lt;p&gt;Sebastian Schuster&lt;br /&gt;
+Brenscheder Straße, 56&lt;br /&gt;
+44799 Bochum&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;kontakt&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Kontakt&lt;/h2&gt;
+&lt;p&gt;Telefon: 0234/91518730&lt;br /&gt;
+E-Mail: &lt;a href=&#34;mailto:mail@sebastian-schuster.org&#34; class=&#34;email&#34;&gt;mail@sebastian-schuster.org&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;redaktionell-verantwortlich&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Redaktionell verantwortlich&lt;/h2&gt;
+&lt;p&gt;Sebastian Schuster&lt;/p&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -262,7 +315,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-169352748&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-748951236&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -272,7 +325,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-169352748&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-748951236&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -702,24 +755,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://seb-schu.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://seb-schu.github.io/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://seb-schu.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://seb-schu.github.io/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

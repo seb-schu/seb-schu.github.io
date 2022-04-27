@@ -1,0 +1,18 @@
+---
+title: "Start of this blog"
+author: sebastianschuster
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the first sentence of my personal blog. 
+
+You might wonder, why I decided to use English on my whole website and rejected to build it multi-lingual even though German is my mothertongue. The reason is twofolded. First, I guess it would by inappropriately time consuming to build a multi-lingual website even if there are good translation tools around these days that would save me a lot of time. Second, 
+
+
+
+
+

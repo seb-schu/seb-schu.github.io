@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Sebastian Schuster</title>
+    <link>https://seb-schu.github.io/blog/</link>
+      <atom:link href="https://seb-schu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sebastian Schuster</copyright><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://seb-schu.github.io/media/icon_hu0a76167eff82d0da22f75ef5c757e666_9443_512x512_fill_lanczos_center_3.png</url>
+      <title>Blog</title>
+      <link>https://seb-schu.github.io/blog/</link>
+    </image>
+    
+    <item>
+      <title>Start of this blog</title>
+      <link>https://seb-schu.github.io/blog/start/start/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://seb-schu.github.io/blog/start/start/</guid>
+      <description>
+
+
+&lt;p&gt;This is the first sentence of my personal blog.&lt;/p&gt;
+&lt;p&gt;You might wonder, why I decided to use English on my whole website and rejected to build it multi-lingual even though German is my mothertongue. The reason is twofolded. First, I guess it would by inappropriately time consuming to build a multi-lingual website even if there are good translation tools around these days that would save me a lot of time. Second,&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
