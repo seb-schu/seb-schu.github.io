@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Sebastian Schuster</title>
-    <link>https://seb-schu.github.io/publication-type/1/</link>
-      <atom:link href="https://seb-schu.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sebastian-schuster.org/publication-type/1/</link>
+      <atom:link href="https://sebastian-schuster.org/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sebastian Schuster</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://seb-schu.github.io/media/icon_hu0a76167eff82d0da22f75ef5c757e666_9443_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sebastian-schuster.org/media/icon_hu0a76167eff82d0da22f75ef5c757e666_9443_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://seb-schu.github.io/publication-type/1/</link>
+      <link>https://sebastian-schuster.org/publication-type/1/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://seb-schu.github.io/publication/conference-paper/</link>
+      <link>https://sebastian-schuster.org/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://seb-schu.github.io/publication/conference-paper/</guid>
+      <guid>https://sebastian-schuster.org/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

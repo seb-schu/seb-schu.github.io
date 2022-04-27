@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Sebastian Schuster</title>
-    <link>https://seb-schu.github.io/publication_types/</link>
-      <atom:link href="https://seb-schu.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sebastian-schuster.org/publication_types/</link>
+      <atom:link href="https://sebastian-schuster.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sebastian Schuster</copyright><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://seb-schu.github.io/media/icon_hu0a76167eff82d0da22f75ef5c757e666_9443_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sebastian-schuster.org/media/icon_hu0a76167eff82d0da22f75ef5c757e666_9443_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://seb-schu.github.io/publication_types/</link>
+      <link>https://sebastian-schuster.org/publication_types/</link>
     </image>
     
   </channel>

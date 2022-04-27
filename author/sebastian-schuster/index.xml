@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Schuster</title>
-    <link>https://seb-schu.github.io/author/sebastian-schuster/</link>
-      <atom:link href="https://seb-schu.github.io/author/sebastian-schuster/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sebastian-schuster.org/author/sebastian-schuster/</link>
+      <atom:link href="https://sebastian-schuster.org/author/sebastian-schuster/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Schuster</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sebastian Schuster</copyright>
     <image>
-      <url>https://seb-schu.github.io/author/sebastian-schuster/avatar_hu05c05dbf7d93131f7625ea34d790750e_73584_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://sebastian-schuster.org/author/sebastian-schuster/avatar_hu05c05dbf7d93131f7625ea34d790750e_73584_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sebastian Schuster</title>
-      <link>https://seb-schu.github.io/author/sebastian-schuster/</link>
+      <link>https://sebastian-schuster.org/author/sebastian-schuster/</link>
     </image>
     
   </channel>
