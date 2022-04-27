@@ -21,7 +21,13 @@
 
 
 &lt;p&gt;This is the first sentence of my personal blog.&lt;/p&gt;
-&lt;p&gt;You might wonder, why I decided to use English on my whole website and rejected to build it multi-lingual even though German is my mothertongue. The reason is twofolded. First, I guess it would by inappropriately time consuming to build a multi-lingual website even if there are good translation tools around these days that would save me a lot of time. Second,&lt;/p&gt;
+&lt;p&gt;You might wonder, why I decided to use English on my whole website and rejected to build it multi-lingual even though German is my mother tongue. The reason is two folded. First, I guess it would by inappropriately time consuming to build a multi-lingual website even if there are good translation tools around these days that would save me a lot of time. Second, I believe that writing this blog in English will make me spend more time thinking about the way I communicate my content.&lt;/p&gt;
+&lt;p&gt;My intention is to use this blog as a tool of communication and documentation of my way to become a better R user. Therefore I will write about common problems I’m facing during my everyday work as a scientist working on real-world empirical data. Working as a research assistant apart of my studies helped me a lot to dig deeper into R, although it was a pain for more than one time, because I was used to work with example data sets instead of messy ones. To give you an idea of how I approach new data sets, I want to participate in the weekly &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday&#34;&gt;tidy tuesday&lt;/a&gt; data project, every now and then.&lt;/p&gt;
+&lt;!-- 
+Notes:
+- What I want to blog about
+
+--&gt;
 </description>
     </item>
     
